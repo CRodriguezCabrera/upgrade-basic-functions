@@ -10,7 +10,7 @@ function average(array){
         result += array[index]
                
     }
-    let finalResult = (result / [array.length - 1]);
+    let finalResult = (result / array.length);
     console.log(finalResult);
 
 }
