@@ -28,6 +28,6 @@ function finderName(array, name) {
         }    
         
     }
-   
+   return console.log(false)
 }
 finderName (nameFinder, "Bruce")
