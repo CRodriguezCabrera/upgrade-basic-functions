@@ -5,7 +5,7 @@ Calcular un promedio es una tarea extremadamente común. Puedes usar este array 
 const numbers = [12, 21, 38, 5, 45, 37, 6];
 
 function average(array){
-    let result = array[0]
+    let result = 0
     for (let index = 0; index < array.length; index++) {
         result += array[index]
                
@@ -15,3 +15,4 @@ function average(array){
 
 }
 average(numbers)
+

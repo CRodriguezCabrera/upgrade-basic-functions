@@ -1,6 +1,6 @@
 //iteration 1
 
-/* let result = ""
+let result = ""
 function sum(numberOne, numberTwo){
     if(numberOne > numberTwo){
         return result = numberOne;
@@ -9,7 +9,7 @@ function sum(numberOne, numberTwo){
     }
 }
 sum(5, 8)
-console.log(result) */
+console.log(result) 
 
 
 
